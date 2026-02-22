@@ -1,0 +1,1 @@
+console.log("Hello Welcome to the journey of learning JAVASCRIPT");
